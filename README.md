@@ -74,3 +74,7 @@ npm start
 ---
 
 If you need further assistance, please provide error messages or logs for support.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
