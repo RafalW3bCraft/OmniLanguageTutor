@@ -1,3 +1,4 @@
+<!-- GitAds-Verify: YW55C2ZIWZT8FSR156VO7CL5CWPXMFY3 -->
 # App Launch Instructions for Windows Users
 
 This project is a full-stack application with a React client and an Express server using TypeScript.
