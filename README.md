@@ -1,6 +1,4 @@
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rafalw3bcraft/omnilanguagetutor@github)](https://gitads.dev/v1/ad-track?source=rafalw3bcraft/omnilanguagetutor@github)
-
+<!-- GitAds-Verify: YS6FKG5G49Y1TZHDAFWF687SQGV64MC6 -->
 # App Launch Instructions for Windows Users
 
 This project is a full-stack application with a React client and an Express server using TypeScript.
