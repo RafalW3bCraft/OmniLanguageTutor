@@ -1,4 +1,4 @@
-# App Launch Instructions for Windows Users
+# Launch Instructions for OmniLanguageTutor
 This project is a full-stack application with a React client and an Express server using TypeScript.
 
 ## Prerequisites
